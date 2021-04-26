@@ -1,8 +1,14 @@
 # GTracker
 
-# Dani/ Sofia
-- styles.css
+# Dani
+- webpack.config.js
+- dist
 # Mirka
 - SignUp.js
 # Oscar
-- Boilerplate react 
+- package.json
+- package-lock.json 
+# Sofia
+- styles.css
+- .babelrc
+- .eslint.js

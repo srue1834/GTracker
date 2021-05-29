@@ -3,13 +3,15 @@
 /* eslint-disable no-undef */
 import React from 'react'
 import ReactDOM from 'react-dom'
-
-import Signup from './components/SignUp'
+// import Signup from './components/Signup'
+import Formulario from './components/Formulario'
+// import Login from './components/Login'
 
 const App = () => (
   <div>
     <style>{'body { background-color: transparent; }'}</style>
-    <Signup />
+    {/* <Login /> */}
+    <Formulario />
   </div>
 )
 
